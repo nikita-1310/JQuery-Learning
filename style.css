@@ -1,0 +1,105 @@
+p{
+    color: rgb(6, 69, 69);
+    font-size: 20px;
+}
+button{
+    background-color: rgb(7, 55, 55);
+    color: white;
+    padding: 6px 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    /* border: 2px solid; */
+}
+input{
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+#box{
+    font-size: 28px;
+    font-family: cursive;
+    margin-top: 20px;
+    cursor: pointer;
+    padding: 20px;
+}
+.boxes{
+    display: none;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+#box1{
+    background-color: thistle;
+}
+#box2{
+    background-color: violet;
+}
+#box3{
+    background-color: turquoise;
+}
+.fade{
+    padding: 10px 20px;
+    background-color: springgreen;
+    color: red;
+}
+#flip , #panel, #flip_up, #flip_toggle{
+    background-color: royalblue;
+    color: white;
+    margin-top: 20px;
+    font-size: 30px;
+    padding: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+#panel{
+    padding: 50px;
+    display: none;
+}
+
+#animate{
+    width: 50px;
+    margin-top: 10px;
+    height: 100px;
+    background-color: rgb(43, 2, 43);
+}
+#sliding{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(75, 11, 4);
+    margin-top: 10px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    display: none;
+}
+.slide_btn{
+    padding: 10px 20px;
+    background-color: slateblue;
+    color: red;
+}
+#call_para{
+    font-size: 27px;
+    color: tomato;
+}
+#call_hide{
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    color: red;
+    background-color: lightcoral;
+}
+#btn1{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+#remove{
+    height: 200px;
+    width: 300px;
+    background-color: lawngreen;
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 20px;
+    overflow: hidden ;
+}
